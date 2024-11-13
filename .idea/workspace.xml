@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a6d036f5-7dcb-469b-8276-8f6f1679919f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/MyMavenProject/amazontestng.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyMavenProject/src/test/java/org/staragile/devopsassignment/amazon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MyMavenProject/target/test-classes/org/staragile/devopsassignment/amazon.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seleniumdemos/src/preparation/day7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyMavenProject/target/MyMavenProject-1.0-SNAPSHOT.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyMavenProject/target/maven-archiver/pom.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyMavenProject/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/MyMavenProject/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyMavenProject/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/MyMavenProject/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyMavenProject/target/surefire-reports/Surefire suite/Surefire test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyMavenProject/target/surefire-reports/Surefire suite/Surefire test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyMavenProject/target/surefire-reports/TEST-org.staragile.AppTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyMavenProject/target/surefire-reports/bullet_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyMavenProject/target/surefire-reports/collapseall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyMavenProject/target/surefire-reports/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyMavenProject/target/surefire-reports/failed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyMavenProject/target/surefire-reports/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyMavenProject/target/surefire-reports/jquery-3.6.0.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyMavenProject/target/surefire-reports/navigator-bullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyMavenProject/target/surefire-reports/org.staragile.AppTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyMavenProject/target/surefire-reports/passed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyMavenProject/target/surefire-reports/skipped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyMavenProject/target/surefire-reports/testng-reports.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyMavenProject/target/surefire-reports/testng-reports.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyMavenProject/target/surefire-reports/testng-reports1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyMavenProject/target/surefire-reports/testng-reports2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyMavenProject/target/surefire-reports/testng-results.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyMavenProject/target/test-classes/org/staragile/june26/D01LaunchingYoutube.class" beforeDir="false" afterPath="$PROJECT_DIR$/MyMavenProject/target/test-classes/org/staragile/june26/D01LaunchingYoutube.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyMavenProject/target/test-classes/org/staragile/june27/D03ReadFromExcel.class" beforeDir="false" afterPath="$PROJECT_DIR$/MyMavenProject/target/test-classes/org/staragile/june27/D03ReadFromExcel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MyMavenProject/target/test-classes/org/staragile/june27/D04DataDrivenTesting.class" beforeDir="false" afterPath="$PROJECT_DIR$/MyMavenProject/target/test-classes/org/staragile/june27/D04DataDrivenTesting.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seleniumdemos/src/devops/dockertest.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/MyMavenProject" />
+  </component>
+  <component name="ProjectId" id="2lnBr30cpEFgE209vhFr4ZinJsy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/seleniumdemos" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6d036f5-7dcb-469b-8276-8f6f1679919f" name="Default Changelist" comment="" />
+      <created>1725806155439</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725806155439</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="3" time="43.008">
+    <testcase classname="Registration process of RediffMail" name="To validate registration process on RediffMail" time="15.187">
+        <system-out><![CDATA[Given Open Rediffmail.......................................................passed
+When I Enter "Anu Swathi" "anuswati" and "swati123".........................passed
+Then Approprite message should display......................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Registration process of RediffMail" name="To validate registration process on RediffMail 2" time="14.38">
+        <system-out><![CDATA[Given Open Rediffmail.......................................................passed
+When I Enter "Tushar Pawar" "tusharpawar987456" and "tushar123".............passed
+Then Approprite message should display......................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="Registration process of RediffMail" name="To validate registration process on RediffMail 3" time="13.086">
+        <system-out><![CDATA[Given Open Rediffmail.......................................................passed
+When I Enter "Banti Nayak" "bantinayak" and "banti123"......................passed
+Then Approprite message should display......................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
